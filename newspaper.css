@@ -1,0 +1,43 @@
+.background_image{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/newsbg.png");
+    height: 100vh;
+    background-size: cover;
+
+}
+.card_item{
+    background-color: #ffffff;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    padding: 5px;
+    
+}
+
+.main_heading{
+    font-family: "Roboto";
+    color: #7b8794;
+    margin: 10px;
+    font-size:15px;
+
+}
+.paragraph_heading{
+    font-family: "Roboto";
+    color: #323f4b;
+    font-size: 20px;
+    margin: 10px;
+}
+.paragraph{
+    font-family:"Roboto";
+    color:#7b8794;
+    font-size: 10px;
+    margin: 10px;
+}
+.button{
+    margin: 10px;
+    height: 40px;
+    width: 100px;
+    border-radius: 10px;
+    color: #ffffff;
+    background-color: #323f4b;
+
+
+}
